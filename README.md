@@ -4,5 +4,7 @@ A College Assignment I was asked to do in java to show knowledge in UML Diagrams
 It breaks up the Words into ngrams and marks them by key and value in a Concurrent Hash Map.
 Below is a picture of the overview of what I was asked to do.
 
-#OVERVIEW
+## Overview of Project Requirements
+
+
 ![Overview of the Project Requirements](https://i.imgur.com/hcOQHXX.png)
