@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ie.gmit.sw","l":"Database"},{"p":"ie.gmit.sw","l":"Language"},{"p":"ie.gmit.sw","l":"LanguageEntry"},{"p":"ie.gmit.sw","l":"Parser"},{"p":"ie.gmit.sw","l":"Runner"}]
